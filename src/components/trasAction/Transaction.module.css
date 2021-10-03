@@ -1,0 +1,14 @@
+.transactionHistory {
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 5px;
+  border: solid gray;
+  width: 400px;
+}
+.tbName {
+  background-color: dodgerblue;
+  border-radius: 5px;
+}
+.tbody tr:nth-child(2n-1) {
+  background-color: #ff33cc;
+}
