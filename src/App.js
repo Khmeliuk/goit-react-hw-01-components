@@ -5,7 +5,7 @@ import transAction from "./data/transactions.json";
 import TransactionHistory from "./components/trasAction/TransactionHistory";
 import friends from "./data/friends.json";
 import Statistics from "./components/statistic/Statistics";
-import FriendList from "./components/friendListItem/FriendList";
+import FriendList from "./components/friendList/FriendList";
 
 export default function App() {
   return (
